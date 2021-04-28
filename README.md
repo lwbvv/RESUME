@@ -13,14 +13,14 @@
 - Instagram: https://instagram.com/chichilee_table?igshid=awmrxk33n1ka
 
 
-
+<br><br/>
 ## Career
 
 + Appg iOS Developer 2020. 05 ~
 
 
 
-
+<br><br/>
 ## Skills
 
 
@@ -38,7 +38,7 @@ etc
 - snapKit
 
   
-
+<br><br/>
 ## Studying
 
 
@@ -47,10 +47,10 @@ etc
 - Algorithm
 
 
-
+<br><br/>
 ## Company Project
 
-
+<br><br/>
 ### 휴먼라인
 
 ​	뇌파, 맥파, 안구운동 측정기기를 연동하여 컨디션 지표를 나타내주는 어플리케이션
@@ -85,7 +85,7 @@ etc
   - 빌드 시간을 단축하기 위하여 SPM 도입하여 빌드시간 1분 30초 -> 1분으로 33% 단축
 
 
-
+<br><br/>
 ### 뱅크다이어리
 
 ​	보험조회 서비스 어플리케이션
@@ -111,7 +111,7 @@ etc
 [앱스토어](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
 
 
-
+<br><br/>
 ### 안심불빛
 
   비콘 연동을 통한 안심귀가 서비스 어플리케이션(춘천시와의 협약 문제로 2021년 2분기 출시 예정)
@@ -137,10 +137,11 @@ etc
   - AutoLayout에 대한 이해도를 높이기 위하여 Code로 UI 작업
   - 여러 플랫폼을 경험하며 익혔던 프로그래밍의 전반적인 지식들의 결합
 
-#### 
 
+<br><br/>
 ### 하이브리드 어플리
 
+<br><br/>
 #### 발란
 
   럭셔리 쇼핑몰 어플리세이션
