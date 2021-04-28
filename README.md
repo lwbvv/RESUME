@@ -4,7 +4,6 @@
 
 ## Profile
 
----
 
 - Name: 이치원
 - Email: lwbvvbusiness@gmail.com
@@ -19,13 +18,11 @@
 
 + Appg iOS Developer 2020. 05 ~
 
----
 
 
 
 ## Skills
 
----
 
 - Swift
 - Rxswift, RxCocoa
@@ -44,7 +41,6 @@ etc
 
 ## Studying
 
----
 
 - SwiftUI
 - Architecture(Clean Architecture, RIBs)
@@ -54,7 +50,6 @@ etc
 
 ## Company Project
 
-----
 
 ### 휴먼라인
 
@@ -173,7 +168,6 @@ etc
 
 ## Etc
 
----
 
 ## Persnal Project
 
