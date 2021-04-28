@@ -165,20 +165,20 @@ etc
 
 
 
-
+<br><br/>
 ## Etc
 
 
-## Persnal Project
+### Persnal Project
 
-### 인연
+#### 인연
 소개팅 어플리케이션
 
   + 안드로이드, 서버(장고) 개발
 
 https://github.com/lwbvv/inyeon
 
-### 포포
+#### 포포
 인생샷 포인트 공유 어플리케이션
 
   + 서버(장고) 개발
@@ -186,7 +186,7 @@ https://github.com/lwbvv/inyeon
 https://github.com/lwbvv/spott-android
 
 
-### AlwaysAwake
+#### AlwaysAwake
 Todo List 어플리케이션
 
   + 안드로이드 개발
