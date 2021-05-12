@@ -27,15 +27,15 @@
 - Swift
 - Rxswift, RxCocoa
 - Architecture (MVC, MVVM, MVVM-C, ReactorKit)
-- Network(Alamofire)
+- Network(Alamofire, Moya)
 - Programmatically UI(Method Chaining)
 - FCM
 - Map(Kakao, Naver)
 - socialLogin(Naver, Kakao, Apple, google)
-
-etc
-
 - snapKit
+
+
+
 
 
 <br><br/>
