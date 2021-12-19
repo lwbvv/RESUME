@@ -16,7 +16,8 @@
 <br><br/>
 ## Career
 
-+ Appg iOS Developer 2020. 05 ~
++ Appg iOS Developer 2020. 05 ~ 2021.06
++ Peachy iOS Developer 2021. 06 ~
 
 
 
