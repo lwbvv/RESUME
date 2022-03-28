@@ -53,16 +53,19 @@
 ​	피트니스 예약 어플리케이션
 
 <p>
-  <img src="https://user-images.githubusercontent.com/49789441/160413948-a018f148-2b50-4ede-8fc6-a984896f2b6d.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/160415602-9bda2fe3-af07-45d9-aa89-dfc304042cbf.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/160413948-a018f148-2b50-4ede-8fc6-a984896f2b6d.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/160413946-72ff3f35-212a-4101-a17d-306340c79445.png" width="200" height="340">
-    <img src="https://user-images.githubusercontent.com/49789441/160413941-7f74997a-66e4-4485-844c-019826b51811.png" width="200" height="340">
-<!--     <br><br/> -->
+    <br><br/>
+     <img src="https://user-images.githubusercontent.com/49789441/160413941-7f74997a-66e4-4485-844c-019826b51811.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/160413936-02bae79e-1a8b-4a1f-9df3-524b5d55830e.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/160413920-c9ba0446-1f5f-48f6-a81b-0a2a06a3625b.png" width="200" height="340">
 </p>
 
 - 개발기간: 2021.06 ~ 진행중
-- 역할: iOS 개발
+- 역할
+  - iOS 개발
+  - 모바일 개발 리드(2022. 02 ~)
 - 개발환경: Xcode(Swift 5.4)
 - 사용기술: Clean Architecture, ReactorKit, RxSwift, SnapKit, Moya
 - 대표 업무
