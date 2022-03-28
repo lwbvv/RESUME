@@ -14,7 +14,7 @@
 
 
 <br><br/>
-## Career
+## Career(2년차 iOS Developer)
 
 + Appg iOS Developer 2020. 05 ~ 2021.06
 + Peachy iOS Developer 2021. 06 ~
