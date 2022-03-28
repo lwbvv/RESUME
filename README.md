@@ -52,6 +52,15 @@
 
 ​	피트니스 예약 어플리케이션
 
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/160413948-a018f148-2b50-4ede-8fc6-a984896f2b6d.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/160413946-72ff3f35-212a-4101-a17d-306340c79445.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/160413941-7f74997a-66e4-4485-844c-019826b51811.png" width="200" height="340">
+    <br><br/>
+    <img src="https://user-images.githubusercontent.com/49789441/160413936-02bae79e-1a8b-4a1f-9df3-524b5d55830e.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/160413920-c9ba0446-1f5f-48f6-a81b-0a2a06a3625b.png" width="200" height="340">
+</p>
+
 - 개발기간: 2021.06 ~ 진행중
 - 역할: iOS 개발
 - 개발환경: Xcode(Swift 5.4)
@@ -81,7 +90,7 @@
     <img src="https://user-images.githubusercontent.com/49789441/116453633-14a94680-a89a-11eb-811a-3774c5a201fc.png" width="200" height="340">
         <img src="https://user-images.githubusercontent.com/49789441/116464335-d23a3680-a8a6-11eb-80e0-26307a1e7af8.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/116453683-225ecc00-a89a-11eb-88a9-45c663a3b150.png" width="200" height="340">
-    </p>
+</p>
 
 - 개발기간: 2021.02 ~ 2021.05
 - 역할: iOS 개발(통계자료, 상담 영역을 제외한 전 영역 개발)
