@@ -2,8 +2,10 @@
 
 <br><br/>
 
-## Profile
+## Notion Resume
+[노션 링크](https://leenote.notion.site/iOS-Developer-0578101c490d49c383ad0ac3fdc1d082)
 
+## Profile
 
 - Name: 이치원
 - Email: lwbvvbusiness@gmail.com
