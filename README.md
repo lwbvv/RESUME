@@ -23,19 +23,15 @@
 <br><br/>
 ## Skills
 
-
 - Swift
-- Rxswift, RxCocoa
-- Architecture (MVC, MVVM, MVVM-C, ReactorKit)
+- Rxswift, RxCocoa, RxDatasource
+- Architecture (Clean Architecture, MVVM, MVVM-C, ReactorKit, MVC)
 - Network(Alamofire, Moya)
 - Programmatically UI(Method Chaining)
 - FCM
 - Map(Kakao, Naver)
 - socialLogin(Naver, Kakao, Apple, google)
 - snapKit
-
-
-
 
 
 <br><br/>
@@ -53,8 +49,8 @@
 - 개발환경: Xcode(Swift 5.4)
 - 사용기술: Clean Architecture, ReactorKit, RxSwift, SnapKit, Moya
 - 대표 업무
-  - 예약 캘린더 개발
   - 앱 구조 설계
+  - 예약 캘린더 개발
 - 성과
   - Code Templete 제작하여 사용하여 ***보일러 플레이트 코드의 작성 시간을 단축과 일관된 코드 작성***
   - 예약 캘린더의 만년달력의 속도 이슈를 해결하기 위해 프레임 기반 레이아웃 배치와 PageViewController의 페이지 리사이클링
@@ -91,10 +87,10 @@
   - Chart라이브러리를 이용한 차트 개발
   - 더블 컬렉션뷰를 이용한 리스트 개발
   - 인앱 결제 개발
-- 주요 사항
-  - 보일러 플레이트 코드의 작성 시간을 단축과 코드의 일관성을 주기 위해 Templete 제작하여 사용
-  - 영상, 음악 플레이시 메모리 및 로컬 스토리지 캐싱을 이용한 최적화
-  - 빌드 시간을 단축하기 위하여 SPM 도입하여 빌드시간 1분 30초 -> 1분으로 33% 단축
+- 성과
+  - Code Templete 제작하여 사용하여 ***보일러 플레이트 코드의 작성 시간을 단축과 일관된 코드 작성***
+  - ***영상, 음악 플레이시 메모리 및 로컬 스토리지 캐싱을 이용한 최적화***
+  - ***빌드 시간을 단축하기 위하여 SPM 도입하여 빌드시간 1분 30초 -> 1분으로 33% 단축***
 
 <p>
   <img src="https://user-images.githubusercontent.com/49789441/116453495-ec214c80-a899-11eb-99ff-156576293e75.png" width="200" height="340">
@@ -127,9 +123,9 @@
   - 암호화 키패드 라이브러이 연동 및 비밀번호, 주민번호 암호화 개발
   - 스크래핑을 이용한 '내 보험 다 보여' 회원가입, 로그인, 보험 조회
   - FCM Push
-- 개선사항
-  - MVVM 패턴의 단점을 보완하기 위해 MVVM-C 패턴 사용
-  - MVVM-C 서포트 라이브러리를 사용하여 개발하던 도중 Multi POP 기능에 오류가 있어 Custom 하여 사용
+- 성과
+  - ***MVVM 패턴의 단점을 보완하기 위해 MVVM-C 패턴 사용***
+  - ***MVVM-C 서포트 라이브러리를 사용하여 개발하던 도중 Multi POP 기능에 오류가 있어 Custom 하여 사용***
  
 [앱스토어 링크](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
 
@@ -149,10 +145,8 @@
   - 반경 1km 이내의 세이프존 마커 개발
   - 도로명 주소 API를 이용한 주소 검색 개발
   - 핸드폰 특정 강도 이상으로(강도 조절 가능) 흔들었을 시 위급상황 알림 개발
-- 개선사항
-  - iOS로 개발한 첫 어플리케이션
-  - AutoLayout에 대한 이해도를 높이기 위하여 Code로 UI 작업
-  - 여러 플랫폼을 경험하며 익혔던 프로그래밍의 전반적인 지식들의 결합
+- 성과
+  - ***Code로 UI 작업을 하므로써 UI 유지보수성을 높힘***
 
 <p>
   <img src="https://user-images.githubusercontent.com/49789441/116446105-96e13d00-a891-11eb-8601-4384c6f04c8e.png" width="200" height="340">
@@ -174,9 +168,9 @@
 - 개발환경: Xcode(Swift 5.2)
 - 대표 업무
   - 정적으로 표현 됐던 인트로 페이지 동적으로 변경
-- 개선사항
-  - 스플래쉬 이미지 캐싱 처리로 자연스러운 스플래쉬 랜더
-  - iOS 런치 스크린 이미지 캐싱 버그 해결
+- 성과
+  - ***스플래쉬 이미지 캐싱 처리로 자연스러운 스플래쉬 랜더***
+  - ***iOS 런치 스크린 이미지 캐싱 버그 해결***
 
 
 <p>
