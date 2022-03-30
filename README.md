@@ -71,6 +71,7 @@
     <img src="https://user-images.githubusercontent.com/49789441/160413936-02bae79e-1a8b-4a1f-9df3-524b5d55830e.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/160413920-c9ba0446-1f5f-48f6-a81b-0a2a06a3625b.png" width="200" height="340">
 </p>
+
 [앱스토어 링크](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9A%B4%EB%8F%99-%ED%8C%8C%ED%8A%B8%EB%84%88/id1589899247)
 
 
@@ -128,13 +129,14 @@
 - 개선사항
   - MVVM 패턴의 단점을 보완하기 위해 MVVM-C 패턴 사용
   - MVVM-C 서포트 라이브러리를 사용하여 개발하던 도중 Multi POP 기능에 오류가 있어 Custom 하여 사용
+ 
 [앱스토어 링크](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
 
 
 <br><br/>
 ### 안심불빛
 
-  비콘 연동을 통한 안심귀가 서비스 어플리케이션(춘천시와의 협약 문제로 2021년 2분기 출시 예정)
+  비콘 연동을 통한 안심귀가 서비스 어플리케이션
 
 - 개발기간: 2020.07 ~ 2020.08
 - 역할: iOS 개발(기여도 100%)
