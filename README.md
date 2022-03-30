@@ -75,8 +75,7 @@
   - 예약 캘린더의 만년달력의 속도 이슈를 해결하기 위해 프레임 기반 레이아웃 배치와 PageViewController의 페이지 리사이클링
     - 프레임 기반 렌더링 -> 데이터를 받아 온 후 렌더링 속도 2000ms -> 100ms대(육안으로는 데이터 받아오는 즉시 렌더링)로 향상
     - 페이지 리사이클링 -> 페이지마다 올라가 있는 observable 12000개 -> 200개 안팎으로 줄임
- 
-[앱스토어](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9A%B4%EB%8F%99-%ED%8C%8C%ED%8A%B8%EB%84%88/id1589899247)
+[앱스토어 링크](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9A%B4%EB%8F%99-%ED%8C%8C%ED%8A%B8%EB%84%88/id1589899247)
 
 
 ### 휴먼라인
@@ -134,8 +133,7 @@
 - 개선사항
   - MVVM 패턴의 단점을 보완하기 위해 MVVM-C 패턴 사용
   - MVVM-C 서포트 라이브러리를 사용하여 개발하던 도중 Multi POP 기능에 오류가 있어 Custom 하여 사용
-
-[앱스토어](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
+[앱스토어 링크](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
 
 
 <br><br/>
