@@ -9,7 +9,6 @@
 - Email: lwbvvbusiness@gmail.com
 - Github: https://github.com/lwbvv
 - TISTORY: https://richone.tistory.com
-- Notion: https://www.notion.so/DevLee-Note-c3086ea8ef164ac5a1bc378c57730f86
 - Instagram: https://instagram.com/chichilee_table?igshid=awmrxk33n1ka
 
 
