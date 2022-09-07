@@ -15,14 +15,15 @@
 
 
 <br><br/>
-## Career(2년차 iOS Developer)
+## Career(3년차 iOS Developer)
 
 + Appg iOS Developer 2020. 05 ~ 2021.06
-+ Peachy iOS Developer 2021. 06 ~
++ Peachy iOS Developer 2021. 06 ~ 2022. 05
 
 
 
 <br><br/>
+
 ## Skills
 
 - Swift
@@ -35,8 +36,30 @@
 - socialLogin(Naver, Kakao, Apple, google)
 - snapKit
 
+<br><br/>
+
+## Outsorcing Project
+
+### 가제) 배달의 반띵
+
+배달 음식의 금액을 반띵할 사람을 매칭 시켜주는 어플리케이션
+
+- 개발기간: 2022. 05 ~ 2022. 08
+- 역할: iOS 개발
+- 개발환경: Xcode(Swift 5.5)
+- 사용기술
+  - Architecture: Ribs, ReactorKit, three layer architecture(clean architecture)
+  - monoRepository-multimodule
+- 대표 업무
+  - 내가 연 반띵 목록
+  - 내가 참여한 반띵 목록
+  - 리뷰
+- 주요 사항
+  - 어플리케이션 설계 참여
 
 <br><br/>
+
+
 
 ## Company Project
 
@@ -44,7 +67,7 @@
 
 ​	피트니스 예약 어플리케이션
 
-- 개발기간: 2021.06 ~ 진행중
+- 개발기간: 2021.06 ~ 2022. 05
 - 역할
   - iOS 개발
   - 모바일 개발 리드(2022. 02 ~)
@@ -133,7 +156,7 @@
 - 성과
   - ***MVVM 패턴의 단점을 보완하기 위해 MVVM-C 패턴 사용***
   - ***MVVM-C 서포트 라이브러리를 사용하여 개발하던 도중 Multi POP 기능에 오류가 있어 Custom 하여 사용***
- 
+
 [앱스토어 링크](https://apps.apple.com/kr/app/뱅크다이어리-bankdiary/id1543640471)
 
 
