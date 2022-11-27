@@ -26,7 +26,7 @@
 
 Architecture - Ribs, Clean Architecture, MVVM, MVVM-C, ReactorKit, MVC
 
-### Favorite OpenSource
+Favorite OpenSource
 
 - infra
   - ReactorKit
@@ -45,11 +45,9 @@ Architecture - BLOC
 
 Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
-
+<br><br/>
 
 ## Career
-
----
 
 ### Canlab
 
@@ -69,8 +67,6 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
 
 ## Company Project
-
-----
 
 ### Moim(Application And WebSite Builder)
 
@@ -303,8 +299,6 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
 ## Outsorcing Project
 
----
-
 ### 배달의 반띵
 
 배달 음식의 금액을 반띵할 사람을 매칭 시켜주는 어플리케이션
@@ -328,8 +322,6 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 <br><br/>
 
 ## Persnal Project
-
----
 
 #### 인연
 소개팅 어플리케이션
