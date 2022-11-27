@@ -45,6 +45,8 @@ Architecture - BLOC
 
 Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
+iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composable-Architecture
+
 <br><br/>
 
 ## Career
@@ -69,6 +71,8 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 ## Company Project
 
 ### Moim(Application And WebSite Builder)
+
+---
 
 소셜, 커머스 서비스를 코드 없이 쉽게 빌딩해서 서비스 할 수 있도록 제공하는 서비스
 
@@ -134,7 +138,9 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
 ### Peachy
 
-​	피트니스 예약 어플리케이션
+---
+
+피트니스 예약 어플리케이션
 
 - 개발기간: 2021.06 ~ 2022. 05
 
@@ -178,7 +184,9 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
 ### 휴먼라인
 
-​	뇌파, 맥파, 안구운동 측정기기를 연동하여 컨디션 지표를 나타내주는 어플리케이션
+---
+
+뇌파, 맥파, 안구운동 측정기기를 연동하여 컨디션 지표를 나타내주는 어플리케이션
 
 - 개발기간: 2021.02 ~ 2021.05
 - 역할: iOS 개발(통계자료, 상담 영역을 제외한 전 영역 개발)
@@ -210,9 +218,39 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 </p>
 <br><br/>
 
+#### 발란
+
+---
+
+럭셔리 쇼핑몰 어플리세이션
+
+- 개발기간: 2020.11 ~ 2020.11
+
+- 역할: iOS앱 유지보수
+
+- 개발환경: Xcode(Swift 5.2)
+
+- 대표 업무
+
+  - 정적으로 표현 됐던 인트로 페이지 동적으로 변경
+
+  - ***스플래쉬 이미지 캐싱 처리로 자연스러운 스플래쉬 랜더***
+  - ***iOS 런치 스크린 이미지 캐싱 버그 해결***
+
+
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/116451503-816f1180-a897-11eb-902a-a4b015dd1549.png">
+</p>
+
+[앱스토어](https://apps.apple.com/kr/app/%EB%B0%9C%EB%9E%80-%EC%B0%B8-%EC%89%AC%EC%9A%B4-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%87%BC%ED%95%91-%EC%95%B1/id1479010008)
+
+#### <br><br/>
+
 ### 뱅크다이어리
 
-​	보험조회 서비스 어플리케이션
+---
+
+보험조회 서비스 어플리케이션
 
 <p>
   <img src="https://user-images.githubusercontent.com/49789441/116445461-dc513a80-a890-11eb-8da2-1da81b099b2b.png">
@@ -241,7 +279,9 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
 
 ### 안심불빛
 
-  비콘 연동을 통한 안심귀가 서비스 어플리케이션
+---
+
+ 비콘 연동을 통한 안심귀가 서비스 어플리케이션
 
 - 개발기간: 2020.07 ~ 2020.08
 
@@ -265,33 +305,7 @@ Flutter Flip Card - https://github.com/BrunoJurkovic/flip_card
   <img src="https://user-images.githubusercontent.com/49789441/116446360-d740bb00-a891-11eb-9212-ef027d28d944.png" width="200" height="340">
   <img src="https://user-images.githubusercontent.com/49789441/116446458-f0496c00-a891-11eb-9c92-d1bf9b47d529.png" width="200" height="340">
 </p>
-
 <br><br/>
-
-### 하이브리드 어플리케이션
-
-#### 발란
-
-  럭셔리 쇼핑몰 어플리세이션
-
-- 개발기간: 2020.11 ~ 2020.11
-
-- 역할: iOS앱 유지보수
-
-- 개발환경: Xcode(Swift 5.2)
-
-- 대표 업무
-  - 정적으로 표현 됐던 인트로 페이지 동적으로 변경
-  
-  - ***스플래쉬 이미지 캐싱 처리로 자연스러운 스플래쉬 랜더***
-  - ***iOS 런치 스크린 이미지 캐싱 버그 해결***
-
-
-<p>
-  <img src="https://user-images.githubusercontent.com/49789441/116451503-816f1180-a897-11eb-902a-a4b015dd1549.png">
-</p>
-
-[앱스토어](https://apps.apple.com/kr/app/%EB%B0%9C%EB%9E%80-%EC%B0%B8-%EC%89%AC%EC%9A%B4-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%87%BC%ED%95%91-%EC%95%B1/id1479010008)
 
 #### 그 외 다수의 하이브리드 어플리케이션 개발
 
