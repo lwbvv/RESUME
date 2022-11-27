@@ -131,10 +131,9 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
 - **대표 어플리케이션**
 
   - [파도상자](https://apps.apple.com/kr/app/%ED%8C%8C%EB%8F%84%EC%83%81%EC%9E%90/id1597052767?l=en)
-
   - [배이크](https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%ED%81%AC-vake-%EA%B0%80%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/id1597029530)
 
-    
+<br><br/>
 
 ### Peachy
 
