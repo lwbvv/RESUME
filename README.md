@@ -14,12 +14,12 @@
 
 ## Career(3년차 iOS Developer)
 
-### Canlab
+### 캔랩코리아
 
 - 기간: 2022.06 ~
 - 내용:  소셜, 커머스 서비스를 코드 없이 쉽게 빌딩해서 서비스 할 수 있도록 제공하는 서비스의 모바일 어플리케이션 모듈 개발
 
-### Pience
+### 파이언스
 
 - 기간: 2021.06 ~ 2022. 05
 - 내용: 피트니스 예약 서비스의 iOS 어플리케이션 개발
@@ -127,6 +127,30 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
 
 <br><br/>
 
+### 배달의 반띵 (외주 프로젝트)
+
+---
+
+배달 음식의 금액을 반띵할 사람을 매칭 시켜주는 어플리케이션
+
+- 개발기간: 2022. 05. 15 ~ 2022. 06. 05
+- 역할: iOS 개발
+- 개발환경: Xcode(Swift 5.5)
+- 업무
+  - Modular 아키텍쳐 설계
+  - Preview를 이용하여 디바이스에 빌드를 하지 않고 UI를 확인하며 개발 할 수 있도록 함
+  - Preview를 이용하여 가시적으로 확인 가능한 UI Test 코드 작성
+  - 내가 오픈한 반띵 목록 개발
+  - 내가 참여한 반띵 목록 개발
+  - 리뷰 작성 페이지 개발
+
+- 사용기술
+  - Architecture: Ribs, ReactorKit, three layer architecture(clean architecture)
+  - MonoRepository-Multimodule
+  - 프로젝트 관리 도구: Tuist
+
+[앱스토어](https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%9D%98-%EB%B0%98%EB%9D%B5/id1642060509)
+
 ### Peachy
 
 ---
@@ -168,6 +192,7 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
     <img src="https://user-images.githubusercontent.com/49789441/160413936-02bae79e-1a8b-4a1f-9df3-524b5d55830e.png" width="200" height="340">
     <img src="https://user-images.githubusercontent.com/49789441/160413920-c9ba0446-1f5f-48f6-a81b-0a2a06a3625b.png" width="200" height="340">
 </p>
+
 [앱스토어 링크](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9A%B4%EB%8F%99-%ED%8C%8C%ED%8A%B8%EB%84%88/id1589899247)
 
 <br><br/>
@@ -195,7 +220,17 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
   - ***영상, 음악 플레이시 메모리 및 로컬 스토리지 캐싱을 이용한 최적화***
   - ***빌드 시간을 단축하기 위하여 SPM 도입하여 빌드시간 1분 30초 -> 1분으로 33% 단축***
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/116453495-ec214c80-a899-11eb-99ff-156576293e75.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/116453518-f2172d80-a899-11eb-9229-c19206fd38f5.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/116453603-09561b00-a89a-11eb-9c4a-983acc0984cd.png" width="200" height="340">
+      <img src="https://user-images.githubusercontent.com/49789441/116453710-2985da00-a89a-11eb-9770-66e71eaaccb7.png" width="200" height="340">
+    <br><br/>
+    <img src="https://user-images.githubusercontent.com/49789441/116453614-0d823880-a89a-11eb-83bf-bd142ec4a0d1.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/116453633-14a94680-a89a-11eb-811a-3774c5a201fc.png" width="200" height="340">
+        <img src="https://user-images.githubusercontent.com/49789441/116464335-d23a3680-a8a6-11eb-80e0-26307a1e7af8.png" width="200" height="340">
+    <img src="https://user-images.githubusercontent.com/49789441/116453683-225ecc00-a89a-11eb-88a9-45c663a3b150.png" width="200" height="340">
+</p>
 <br><br/>
 
 ### 발란
@@ -218,7 +253,9 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
   - ***iOS 런치 스크린 이미지 캐싱 버그 해결***
 
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/116451503-816f1180-a897-11eb-902a-a4b015dd1549.png">
+</p>
 
 [앱스토어](https://apps.apple.com/kr/app/%EB%B0%9C%EB%9E%80-%EC%B0%B8-%EC%89%AC%EC%9A%B4-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%87%BC%ED%95%91-%EC%95%B1/id1479010008)
 
@@ -230,7 +267,9 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
 
 보험조회 서비스 어플리케이션
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/116445461-dc513a80-a890-11eb-8da2-1da81b099b2b.png">
+</p>
 
 - 개발기간: 2020.10 ~ 2020.11
 
@@ -275,34 +314,15 @@ iOS The Composable Architecture Sdudy - https://github.com/tca-study/The-Composa
   
   - ***Code로 UI 작업을 하므로써 UI 유지보수성을 높힘***
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/49789441/116446105-96e13d00-a891-11eb-8601-4384c6f04c8e.png" width="200" height="340">
+  <img src="https://user-images.githubusercontent.com/49789441/116446274-bed0a080-a891-11eb-9fde-ece65ce0e21b.png" width="200" height="340">
+  <img src="https://user-images.githubusercontent.com/49789441/116446360-d740bb00-a891-11eb-9212-ef027d28d944.png" width="200" height="340">
+  <img src="https://user-images.githubusercontent.com/49789441/116446458-f0496c00-a891-11eb-9c92-d1bf9b47d529.png" width="200" height="340">
+</p>
 <br><br/>
 
 #### 그 외 다수의 하이브리드 어플리케이션 개발
-
-<br><br/>
-
-## Outsorcing Project
-
-### 배달의 반띵
-
-배달 음식의 금액을 반띵할 사람을 매칭 시켜주는 어플리케이션
-
-- 개발기간: 2022. 05 ~ 2022. 08
-- 역할: iOS 개발
-  - 내가 연 반띵 목록 개발
-  - 내가 참여한 반띵 목록 개발
-  - 리뷰 개발
-
-- 개발환경: Xcode(Swift 5.5)
-- 사용기술
-  - Architecture: Ribs, ReactorKit, three layer architecture(clean architecture)
-  - monoRepository-multimodule
-  - 프로젝트 관리 도구: Tuist
-- 주요 사항
-  - 어플리케이션 설계 참여
-
-[앱스토어](https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%9D%98-%EB%B0%98%EB%9D%B5/id1642060509)
 
 <br><br/>
 
