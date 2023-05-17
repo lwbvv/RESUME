@@ -12,7 +12,7 @@
 
 <br><br/>
 
-## Career(3년차 iOS Developer)
+## Career
 
 ### 캔랩코리아
 
